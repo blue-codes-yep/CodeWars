@@ -5,5 +5,4 @@ const greet = () => {
     const hello = "hello world!"
 
     return hello;
-
 }
